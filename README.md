@@ -7,3 +7,7 @@ instabot to Automatically like post
 * After that run the bot from cmd 
 
 in *bot.login(username=" ",password=" ")* you will enter your own login details 
+*Check out the project on youtube :
+https://youtu.be/4mWxcjyiekE
+
+
